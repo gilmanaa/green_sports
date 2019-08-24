@@ -2,3 +2,4 @@ pass.txt
 .gitsecret/keys/random_seed
 !*.secret
 secret_test.txt
+/.idea
