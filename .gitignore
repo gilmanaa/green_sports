@@ -3,3 +3,4 @@ pass.txt
 !*.secret
 secret_test.txt
 /.idea
+settings.ini
