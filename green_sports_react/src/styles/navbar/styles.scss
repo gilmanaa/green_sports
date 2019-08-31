@@ -1,0 +1,24 @@
+@import '../globals';
+
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.large-navbar-styling{
+    @include color-styling;
+    background-color: white;
+    border-bottom: 1px solid black;
+    height: 6vh;
+}
+
+.small-navbar-styling{
+    @include color-styling;
+    background-color: white;
+    height: 6vh;
+}
